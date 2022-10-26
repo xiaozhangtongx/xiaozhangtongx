@@ -5,7 +5,6 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/xiaozhangtongx)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](zhangjufu08@gmail.com)
 
-&nbsp;
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
@@ -22,7 +21,6 @@
 - ✍️ &nbsp; Fork to your own repository or you may lose it.
 - ☕ &nbsp; Since you are here, you and I are destined to contact me to make friends.
 
-&nbsp;
 
 **Languages and Tools:** 
 
@@ -50,8 +48,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 </p> 
-
-&nbsp;
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
