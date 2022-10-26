@@ -12,8 +12,8 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I am now studying in Wuhan University of Technology;
-- 🌱 I’m currently learning Vue and React; 
+- 👨🏽‍💻 &nbsp; I am now studying in Wuhan University of Technology;
+- 🌱 &nbsp; I’m currently learning Vue and React; 
 - 🤔 &nbsp; You are very welcome to visit my Github.
 - 🎓 &nbsp; Although the item you need may not be there.
 - 💼 &nbsp; But your presence will brighten this place.
